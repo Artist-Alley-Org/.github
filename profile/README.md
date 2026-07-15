@@ -54,5 +54,6 @@ on (glTF, SVG rasterizing, WebP, thumbhash, EPUB), pinned here for supply-chain 
 
 ### License
 
-Open source and free to self-host, under **BSD-3-Clause**. A commercial license is
-available if you need one — see the [website](https://artist-alley.org) for details.
+Open source and free to self-host, under **AGPL-3.0-only**. A commercial license is
+available if the AGPL doesn't fit your use — see the [website](https://artist-alley.org)
+for details.

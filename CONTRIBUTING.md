@@ -33,4 +33,5 @@ prior issue.
 ## License
 
 By contributing, you agree that your contributions are licensed under the same
-terms as the project (BSD-3-Clause).
+terms as the project (AGPL-3.0-only). The project is dual-licensed — a commercial
+license is also available — so contributions may be offered under both.
