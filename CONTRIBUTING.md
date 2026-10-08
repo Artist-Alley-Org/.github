@@ -32,6 +32,6 @@ prior issue.
 
 ## License
 
-By contributing, you agree that your contributions are licensed under the same
-terms as the project (AGPL-3.0-only). The project is dual-licensed — a commercial
-license is also available — so contributions may be offered under both.
+Contributions are accepted under AGPL-3.0-only. If commercial licensing is introduced
+later, the necessary contributor agreement or permission must be established before
+third-party contributions are commercially relicensed ([#263](https://github.com/Artist-Alley-Org/artist-alley/issues/263)).
